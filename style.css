@@ -349,9 +349,10 @@ footer {
 }
 
 .inner-footer {
-  height: 343px;
+  /* height: 343px;
   margin-left: 151px;
-  margin-right: 151px;
+  margin-right: 151px; */
+  margin: auto;
 }
 
 .footer-content {
